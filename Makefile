@@ -9,8 +9,8 @@ RM      = -rm -f
 INCLUDE = $(HOME)/fish/include
 
 DESTDIR   = A:/usr/ita
-BACKUPDIR = B:/fold/1.0
-RELEASE_ARCHIVE = FOLD10
+BACKUPDIR = B:/fold/1.0A
+RELEASE_ARCHIVE = FOLD10A
 RELEASE_FILES = MANIFEST README ../NOTICE CHANGES fold.1 fold.x
 
 EXTLIB = $(HOME)/fish/lib/ita.l
